@@ -1,5 +1,4 @@
 .footer {
-  max-width: 1184px;
   color : #fff;
   display: flex;
   justify-content: space-between;
@@ -9,12 +8,6 @@
   box-sizing: border-box;
 }
 
-@media (max-width: 768px) {
-  .footer {
-    padding-top: 88px;
-  }
-
-}
 
 @media (max-width: 720px) {
   .footer {

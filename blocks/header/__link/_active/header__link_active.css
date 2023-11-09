@@ -1,0 +1,4 @@
+.header__link_active:active {
+  text-decoration: underline;
+  color: #fff;
+}
