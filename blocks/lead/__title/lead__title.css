@@ -8,17 +8,21 @@
   font-style: normal;
   font-weight: 900;
   line-height: 1.04;
+  box-sizing: border-box;
 }
 
 @media (max-width: 720px) {
   .lead__title {
     font-size: clamp(40px, 13vw, 96px);
     line-height: 1.1;
+    margin-bottom: 16px;
   }
 }
 
 @media (max-width: 320px) {
   .lead__title {
-    margin-bottom: 16px;
+    font-size: 40px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }

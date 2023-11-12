@@ -16,6 +16,13 @@
   }
 }
 
+@media (max-width: 768px) {
+  .lead__subtitle {
+    padding-left: clamp(16px, 5vw, 24px);
+    padding-right: clamp(16px, 5vw, 24px);
+  }
+}
+
 @media (max-width: 720px) {
   .lead__subtitle {
     font-size: clamp(16px, 5vw, 30px);

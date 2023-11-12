@@ -7,7 +7,7 @@
 }
 
 @media (max-width: 480px) {
-  .lang__item {
+  .header__item {
     font-size: 18px;
     line-height: 1.11;
   }

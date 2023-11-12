@@ -7,8 +7,6 @@
   line-height: 1.05;
   margin: 0;
   z-index: 1;
-  text-decoration: none;
-  color: #fff;
 }
 
 @media (max-width: 720px) {

@@ -17,6 +17,7 @@
   .places {
     padding-left: 24px;
     padding-right: 24px;
+    padding-top: 88px;
   }
 }
 
@@ -24,5 +25,6 @@
   .places {
     padding-left: 0px;
     padding-right: 0px;
+    padding-top: 64px;
   }
 }
